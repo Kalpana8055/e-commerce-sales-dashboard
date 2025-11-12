@@ -1,4 +1,6 @@
 🛒 Kalpana E-Commerce Sales Dashboard (Power BI)
+<img width="1912" height="980" alt="image" src="https://github.com/user-attachments/assets/91b69e05-9e95-444e-99c4-0c73d55176e4" />
+
 📊 Project Overview
 
 The Kalpana E-Commerce Sales Dashboard is an interactive Power BI report designed to analyze key business metrics such as sales, profit, quantity, and customer behavior.
